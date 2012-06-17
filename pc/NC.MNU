@@ -1,0 +1,9 @@
+1: Editor
+  credit.prj\start
+2: Compile for Release
+  make RELEASE=1 -f makefile.min
+3: Compile for Debug
+  make -f makefile.min
+4: Debug MC.EXE
+  gdb debug/mc.exe
+

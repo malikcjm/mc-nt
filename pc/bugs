@@ -1,0 +1,23 @@
+Bugs in the current version
+
+- Wrong characters set to show file names
+- Sorting of files by date does not work
+- Windows ME: Can not paste from Windows clipboard
+- Windows ME: MC aborts sometimes when using F3
+- Windows ME: Sometimes MC aborts immediatly when started from the desktop
+- temp.bat for user menu is not unique
+- Cannot copy subdirectories
+- Windows XP: When spawing a programm from shell, Windows reports an exeption, but starts the programm correctly
+- Windows XP: Mouse can not be used after using the shell
+- Windows XP: Errors when editing commands in the shell that exceed one line 
+
+ToDo
+
+- Mouse support for dialog for changing drive 
+- Open ZIP-Files as directories
+- FTP support
+
+
+
+
+

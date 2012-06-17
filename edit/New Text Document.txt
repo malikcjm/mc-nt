@@ -1,0 +1,9 @@
+ADD_LIBRARY(editlib
+    edit.c
+    editcmd.c
+    editdraw.c
+    editmenu.c
+    editoptions.c
+    editwidget.c
+    syntax.c
+    wordproc.c)
